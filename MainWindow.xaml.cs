@@ -26,7 +26,7 @@ namespace SensorTemperaturaArduino
         SerialPort puerto = new SerialPort("COM1", 9600, Parity.None, 8);
         DispatcherTimer tiempo = new DispatcherTimer();
         Chart figura = new Chart();
-        string datosRecibidos = "";
+        private string datosRecibidos = "";
         int contador = 0;
 
         public MainWindow()
@@ -88,7 +88,6 @@ namespace SensorTemperaturaArduino
                 lblDatosRecibidos.Content = "" + datosRecibidos;
                 long temperatura = Convert.ToInt64(datosRecibidos);
                 figura.Series[0].Points.AddXY(contador, temperatura);
-
                 if (temperatura < 15L)
                 {
                     puerto.Write("0");
