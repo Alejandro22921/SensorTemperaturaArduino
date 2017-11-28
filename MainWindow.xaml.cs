@@ -110,10 +110,7 @@ namespace SensorTemperaturaArduino
                     ellipseRed.Fill = Brushes.Red;
                 }
             }
-            catch (Exception)
-            {
-
-            }
+            catch (Exception) {}
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
