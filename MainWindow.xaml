@@ -1,0 +1,14 @@
+﻿<Window x:Class="SensorTemperaturaArduino.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="421.612" Width="588.463" Loaded="Window_Loaded">
+    <Grid>
+        <Button x:Name="btnConectar" Content="ON" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="51" Height="35" FontSize="14" Click="btnConectar_Click"/>
+        <Label x:Name="lblDatosRecibidos" Content="00" HorizontalAlignment="Left" Margin="69,4,0,0" VerticalAlignment="Top" Height="49" Width="48" FontSize="24" HorizontalContentAlignment="Center"/>
+        <Ellipse x:Name="ellipseBlue" Fill="Black" HorizontalAlignment="Left" Height="40" Margin="401,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="40"/>
+        <Ellipse x:Name="ellipseYellow" Fill="Black" HorizontalAlignment="Left" Height="40" Margin="460,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="40"/>
+        <Ellipse x:Name="ellipseRed" Fill="Black" HorizontalAlignment="Left" Height="40" Margin="520,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="40"/>
+        <WindowsFormsHost x:Name="windowsHost" HorizontalAlignment="Left" Height="317" Margin="10,64,0,0" VerticalAlignment="Top" Width="550"/>
+
+    </Grid>
+</Window>

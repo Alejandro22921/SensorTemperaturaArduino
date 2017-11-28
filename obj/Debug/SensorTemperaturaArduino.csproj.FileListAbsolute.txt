@@ -1,0 +1,13 @@
+c:\users\aleja\Documents\Visual Studio 2013\Projects\SensorTemperaturaArduino\SensorTemperaturaArduino\bin\Debug\SensorTemperaturaArduino.exe.config
+c:\users\aleja\Documents\Visual Studio 2013\Projects\SensorTemperaturaArduino\SensorTemperaturaArduino\bin\Debug\SensorTemperaturaArduino.exe
+c:\users\aleja\Documents\Visual Studio 2013\Projects\SensorTemperaturaArduino\SensorTemperaturaArduino\bin\Debug\SensorTemperaturaArduino.pdb
+c:\users\aleja\Documents\Visual Studio 2013\Projects\SensorTemperaturaArduino\SensorTemperaturaArduino\obj\Debug\SensorTemperaturaArduino.csprojResolveAssemblyReference.cache
+c:\users\aleja\Documents\Visual Studio 2013\Projects\SensorTemperaturaArduino\SensorTemperaturaArduino\obj\Debug\MainWindow.baml
+c:\users\aleja\Documents\Visual Studio 2013\Projects\SensorTemperaturaArduino\SensorTemperaturaArduino\obj\Debug\MainWindow.g.cs
+c:\users\aleja\Documents\Visual Studio 2013\Projects\SensorTemperaturaArduino\SensorTemperaturaArduino\obj\Debug\App.g.cs
+c:\users\aleja\Documents\Visual Studio 2013\Projects\SensorTemperaturaArduino\SensorTemperaturaArduino\obj\Debug\SensorTemperaturaArduino_MarkupCompile.cache
+c:\users\aleja\Documents\Visual Studio 2013\Projects\SensorTemperaturaArduino\SensorTemperaturaArduino\obj\Debug\SensorTemperaturaArduino.g.resources
+c:\users\aleja\Documents\Visual Studio 2013\Projects\SensorTemperaturaArduino\SensorTemperaturaArduino\obj\Debug\SensorTemperaturaArduino.Properties.Resources.resources
+c:\users\aleja\Documents\Visual Studio 2013\Projects\SensorTemperaturaArduino\SensorTemperaturaArduino\obj\Debug\SensorTemperaturaArduino.csproj.GenerateResource.Cache
+c:\users\aleja\Documents\Visual Studio 2013\Projects\SensorTemperaturaArduino\SensorTemperaturaArduino\obj\Debug\SensorTemperaturaArduino.exe
+c:\users\aleja\Documents\Visual Studio 2013\Projects\SensorTemperaturaArduino\SensorTemperaturaArduino\obj\Debug\SensorTemperaturaArduino.pdb
